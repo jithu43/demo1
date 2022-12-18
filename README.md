@@ -1,2 +1,2 @@
 # demo1
-Repository for a demo 
+Repository for a demo purpose
